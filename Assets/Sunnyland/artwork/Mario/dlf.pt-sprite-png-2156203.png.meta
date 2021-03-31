@@ -1,0 +1,6944 @@
+fileFormatVersion: 2
+guid: 7fd7bb6555064c4489c0bb9cc4e079e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9072253814566016678
+    second: dlf.pt-sprite-png-2156203_0
+  - first:
+      213: -4028022587779549239
+    second: dlf.pt-sprite-png-2156203_1
+  - first:
+      213: -3162024542827782714
+    second: dlf.pt-sprite-png-2156203_2
+  - first:
+      213: 105896275038869057
+    second: dlf.pt-sprite-png-2156203_3
+  - first:
+      213: -5248818574759766847
+    second: dlf.pt-sprite-png-2156203_4
+  - first:
+      213: 4879410653204947638
+    second: dlf.pt-sprite-png-2156203_5
+  - first:
+      213: 2083838084888384111
+    second: dlf.pt-sprite-png-2156203_6
+  - first:
+      213: -7576517440869933132
+    second: dlf.pt-sprite-png-2156203_7
+  - first:
+      213: 2720212720441681257
+    second: dlf.pt-sprite-png-2156203_8
+  - first:
+      213: 6930001771596321109
+    second: dlf.pt-sprite-png-2156203_9
+  - first:
+      213: -5445665204928560553
+    second: dlf.pt-sprite-png-2156203_10
+  - first:
+      213: -5782674344375817539
+    second: dlf.pt-sprite-png-2156203_11
+  - first:
+      213: 5074332974147737797
+    second: dlf.pt-sprite-png-2156203_12
+  - first:
+      213: -8368532849557385946
+    second: dlf.pt-sprite-png-2156203_13
+  - first:
+      213: -8477903656435666454
+    second: dlf.pt-sprite-png-2156203_14
+  - first:
+      213: 151481224938458271
+    second: dlf.pt-sprite-png-2156203_15
+  - first:
+      213: 1021395296789789013
+    second: dlf.pt-sprite-png-2156203_16
+  - first:
+      213: -4419198678298564876
+    second: dlf.pt-sprite-png-2156203_17
+  - first:
+      213: 7341601163613075066
+    second: dlf.pt-sprite-png-2156203_18
+  - first:
+      213: -4782924532741838788
+    second: dlf.pt-sprite-png-2156203_19
+  - first:
+      213: -2216779183114060704
+    second: dlf.pt-sprite-png-2156203_20
+  - first:
+      213: 1102175799613586347
+    second: dlf.pt-sprite-png-2156203_21
+  - first:
+      213: 1305978461680503456
+    second: dlf.pt-sprite-png-2156203_22
+  - first:
+      213: 7369256882977293379
+    second: dlf.pt-sprite-png-2156203_23
+  - first:
+      213: -2036855221629393001
+    second: dlf.pt-sprite-png-2156203_24
+  - first:
+      213: -2017803828352861864
+    second: dlf.pt-sprite-png-2156203_25
+  - first:
+      213: 6235803481698011584
+    second: dlf.pt-sprite-png-2156203_26
+  - first:
+      213: -6245848829446487119
+    second: dlf.pt-sprite-png-2156203_27
+  - first:
+      213: -6622755619911766102
+    second: dlf.pt-sprite-png-2156203_28
+  - first:
+      213: 8509527483933849993
+    second: dlf.pt-sprite-png-2156203_29
+  - first:
+      213: 8392003994864095247
+    second: dlf.pt-sprite-png-2156203_30
+  - first:
+      213: 4773247001245675006
+    second: dlf.pt-sprite-png-2156203_31
+  - first:
+      213: 3492075784617024431
+    second: dlf.pt-sprite-png-2156203_32
+  - first:
+      213: 8379492407271415792
+    second: dlf.pt-sprite-png-2156203_33
+  - first:
+      213: -8423134161019574220
+    second: dlf.pt-sprite-png-2156203_34
+  - first:
+      213: -5420560275738147081
+    second: dlf.pt-sprite-png-2156203_35
+  - first:
+      213: 574096765142699081
+    second: dlf.pt-sprite-png-2156203_36
+  - first:
+      213: 789775816018903648
+    second: dlf.pt-sprite-png-2156203_37
+  - first:
+      213: -6648485355533702721
+    second: dlf.pt-sprite-png-2156203_38
+  - first:
+      213: -6121745325124305733
+    second: dlf.pt-sprite-png-2156203_39
+  - first:
+      213: 8624650087115683229
+    second: dlf.pt-sprite-png-2156203_40
+  - first:
+      213: 140814945407032877
+    second: dlf.pt-sprite-png-2156203_41
+  - first:
+      213: 4915967799550931823
+    second: dlf.pt-sprite-png-2156203_42
+  - first:
+      213: 1935255294022798860
+    second: dlf.pt-sprite-png-2156203_43
+  - first:
+      213: -6304094627498646558
+    second: dlf.pt-sprite-png-2156203_44
+  - first:
+      213: -5902121345840779279
+    second: dlf.pt-sprite-png-2156203_45
+  - first:
+      213: 3724216596527911824
+    second: dlf.pt-sprite-png-2156203_46
+  - first:
+      213: -4856821143008352408
+    second: dlf.pt-sprite-png-2156203_47
+  - first:
+      213: -192878820419181659
+    second: dlf.pt-sprite-png-2156203_48
+  - first:
+      213: 994152822065515044
+    second: dlf.pt-sprite-png-2156203_49
+  - first:
+      213: 1022305326363141385
+    second: dlf.pt-sprite-png-2156203_50
+  - first:
+      213: -7223283945872327471
+    second: dlf.pt-sprite-png-2156203_51
+  - first:
+      213: 1426299699797905813
+    second: dlf.pt-sprite-png-2156203_52
+  - first:
+      213: -7525458200023267679
+    second: dlf.pt-sprite-png-2156203_53
+  - first:
+      213: -6952080330587396254
+    second: dlf.pt-sprite-png-2156203_54
+  - first:
+      213: 254740438263585931
+    second: dlf.pt-sprite-png-2156203_55
+  - first:
+      213: -4114536388135058911
+    second: dlf.pt-sprite-png-2156203_56
+  - first:
+      213: 9170255870590508224
+    second: dlf.pt-sprite-png-2156203_57
+  - first:
+      213: -4489820797707033941
+    second: dlf.pt-sprite-png-2156203_58
+  - first:
+      213: -3561441845940093913
+    second: dlf.pt-sprite-png-2156203_59
+  - first:
+      213: -2391877929590014664
+    second: dlf.pt-sprite-png-2156203_60
+  - first:
+      213: 3262956885543224537
+    second: dlf.pt-sprite-png-2156203_61
+  - first:
+      213: 5428084971972173553
+    second: dlf.pt-sprite-png-2156203_62
+  - first:
+      213: 3076622075357693967
+    second: dlf.pt-sprite-png-2156203_63
+  - first:
+      213: -8326967411099410952
+    second: dlf.pt-sprite-png-2156203_64
+  - first:
+      213: 2464359873534524387
+    second: dlf.pt-sprite-png-2156203_65
+  - first:
+      213: 8605096826694497845
+    second: dlf.pt-sprite-png-2156203_66
+  - first:
+      213: -7862567342216105024
+    second: dlf.pt-sprite-png-2156203_67
+  - first:
+      213: 1949734734931122229
+    second: dlf.pt-sprite-png-2156203_68
+  - first:
+      213: -1213534961440154990
+    second: dlf.pt-sprite-png-2156203_69
+  - first:
+      213: -7873189494814022637
+    second: dlf.pt-sprite-png-2156203_70
+  - first:
+      213: -120093941281205245
+    second: dlf.pt-sprite-png-2156203_71
+  - first:
+      213: 1500928099783378726
+    second: dlf.pt-sprite-png-2156203_72
+  - first:
+      213: 8980906114886254037
+    second: dlf.pt-sprite-png-2156203_73
+  - first:
+      213: -777570420048847298
+    second: dlf.pt-sprite-png-2156203_74
+  - first:
+      213: 6865575543271197081
+    second: dlf.pt-sprite-png-2156203_75
+  - first:
+      213: 2226239147420478856
+    second: dlf.pt-sprite-png-2156203_76
+  - first:
+      213: 7816084778652104818
+    second: dlf.pt-sprite-png-2156203_77
+  - first:
+      213: 4458897013170770899
+    second: dlf.pt-sprite-png-2156203_78
+  - first:
+      213: -4306054263265003314
+    second: dlf.pt-sprite-png-2156203_79
+  - first:
+      213: 2333470680535642215
+    second: dlf.pt-sprite-png-2156203_80
+  - first:
+      213: 6481584086277892114
+    second: dlf.pt-sprite-png-2156203_81
+  - first:
+      213: -65750477617570934
+    second: dlf.pt-sprite-png-2156203_82
+  - first:
+      213: 159440413307702120
+    second: dlf.pt-sprite-png-2156203_83
+  - first:
+      213: -8248857092564756947
+    second: dlf.pt-sprite-png-2156203_84
+  - first:
+      213: -4420653440423531259
+    second: dlf.pt-sprite-png-2156203_85
+  - first:
+      213: -6554227785413309922
+    second: dlf.pt-sprite-png-2156203_86
+  - first:
+      213: -2373471723973454453
+    second: dlf.pt-sprite-png-2156203_87
+  - first:
+      213: 3730445991231331285
+    second: dlf.pt-sprite-png-2156203_88
+  - first:
+      213: 1264155747389024940
+    second: dlf.pt-sprite-png-2156203_89
+  - first:
+      213: -5275596563825169169
+    second: dlf.pt-sprite-png-2156203_90
+  - first:
+      213: -3736646351142619150
+    second: dlf.pt-sprite-png-2156203_91
+  - first:
+      213: 3281087174570868840
+    second: dlf.pt-sprite-png-2156203_92
+  - first:
+      213: -1078816900861698877
+    second: dlf.pt-sprite-png-2156203_93
+  - first:
+      213: 6992387960206628876
+    second: dlf.pt-sprite-png-2156203_94
+  - first:
+      213: -310628268831054486
+    second: dlf.pt-sprite-png-2156203_95
+  - first:
+      213: -3360727399126793647
+    second: dlf.pt-sprite-png-2156203_96
+  - first:
+      213: 3651450030786284583
+    second: dlf.pt-sprite-png-2156203_97
+  - first:
+      213: 6667213170173287312
+    second: dlf.pt-sprite-png-2156203_98
+  - first:
+      213: -675541680701100141
+    second: dlf.pt-sprite-png-2156203_99
+  - first:
+      213: -7488829756989810974
+    second: dlf.pt-sprite-png-2156203_100
+  - first:
+      213: -3180582901190885028
+    second: dlf.pt-sprite-png-2156203_101
+  - first:
+      213: -4436284712919772713
+    second: dlf.pt-sprite-png-2156203_102
+  - first:
+      213: 3087764160804299899
+    second: dlf.pt-sprite-png-2156203_103
+  - first:
+      213: 1992358933051140478
+    second: dlf.pt-sprite-png-2156203_104
+  - first:
+      213: -1517982894585269510
+    second: dlf.pt-sprite-png-2156203_105
+  - first:
+      213: -6492133236626727822
+    second: dlf.pt-sprite-png-2156203_106
+  - first:
+      213: -606900003038107703
+    second: dlf.pt-sprite-png-2156203_107
+  - first:
+      213: -7998645703426712460
+    second: dlf.pt-sprite-png-2156203_108
+  - first:
+      213: -5015081689024396390
+    second: dlf.pt-sprite-png-2156203_109
+  - first:
+      213: 4966680180769403253
+    second: dlf.pt-sprite-png-2156203_110
+  - first:
+      213: 6626170839911145133
+    second: dlf.pt-sprite-png-2156203_111
+  - first:
+      213: 7561849583802062421
+    second: dlf.pt-sprite-png-2156203_112
+  - first:
+      213: 4556447760060273042
+    second: dlf.pt-sprite-png-2156203_113
+  - first:
+      213: -8705435119424392556
+    second: dlf.pt-sprite-png-2156203_114
+  - first:
+      213: 2740484332434633358
+    second: dlf.pt-sprite-png-2156203_115
+  - first:
+      213: 5532391946009771238
+    second: dlf.pt-sprite-png-2156203_116
+  - first:
+      213: 9084372165390244327
+    second: dlf.pt-sprite-png-2156203_117
+  - first:
+      213: 3921653340788321861
+    second: dlf.pt-sprite-png-2156203_118
+  - first:
+      213: -5965420875076828363
+    second: dlf.pt-sprite-png-2156203_119
+  - first:
+      213: -3438926502073867226
+    second: dlf.pt-sprite-png-2156203_120
+  - first:
+      213: 2566516178588752738
+    second: dlf.pt-sprite-png-2156203_121
+  - first:
+      213: 9138959348648267179
+    second: dlf.pt-sprite-png-2156203_122
+  - first:
+      213: -2515813222913522986
+    second: dlf.pt-sprite-png-2156203_123
+  - first:
+      213: 3281372610885550843
+    second: dlf.pt-sprite-png-2156203_124
+  - first:
+      213: 2825101159132966779
+    second: dlf.pt-sprite-png-2156203_125
+  - first:
+      213: 886373697745868393
+    second: dlf.pt-sprite-png-2156203_126
+  - first:
+      213: -8321179643298427997
+    second: dlf.pt-sprite-png-2156203_127
+  - first:
+      213: -1253149728512347756
+    second: dlf.pt-sprite-png-2156203_128
+  - first:
+      213: 2706518439695630743
+    second: dlf.pt-sprite-png-2156203_129
+  - first:
+      213: -450069501619553332
+    second: dlf.pt-sprite-png-2156203_130
+  - first:
+      213: -5931667058533006435
+    second: dlf.pt-sprite-png-2156203_131
+  - first:
+      213: -4439662219004767507
+    second: dlf.pt-sprite-png-2156203_132
+  - first:
+      213: -4934913369112985331
+    second: dlf.pt-sprite-png-2156203_133
+  - first:
+      213: 6239407402771699352
+    second: dlf.pt-sprite-png-2156203_134
+  - first:
+      213: -1207901921424649311
+    second: dlf.pt-sprite-png-2156203_135
+  - first:
+      213: 7836174242618718068
+    second: dlf.pt-sprite-png-2156203_136
+  - first:
+      213: 6349721558880383481
+    second: dlf.pt-sprite-png-2156203_137
+  - first:
+      213: -7599834085342813498
+    second: dlf.pt-sprite-png-2156203_138
+  - first:
+      213: -9012825635473765122
+    second: dlf.pt-sprite-png-2156203_139
+  - first:
+      213: -718328620606066645
+    second: dlf.pt-sprite-png-2156203_140
+  - first:
+      213: 8131169396731485601
+    second: dlf.pt-sprite-png-2156203_141
+  - first:
+      213: -2745766322409358718
+    second: dlf.pt-sprite-png-2156203_142
+  - first:
+      213: -2319354072989220631
+    second: dlf.pt-sprite-png-2156203_143
+  - first:
+      213: -8483027208660725105
+    second: dlf.pt-sprite-png-2156203_144
+  - first:
+      213: 1118092440359249218
+    second: dlf.pt-sprite-png-2156203_145
+  - first:
+      213: 7486318710769166549
+    second: dlf.pt-sprite-png-2156203_146
+  - first:
+      213: 4222014906410544304
+    second: dlf.pt-sprite-png-2156203_147
+  - first:
+      213: -574141988590249135
+    second: dlf.pt-sprite-png-2156203_148
+  - first:
+      213: 147177150299609684
+    second: dlf.pt-sprite-png-2156203_149
+  - first:
+      213: 5188506016778232005
+    second: dlf.pt-sprite-png-2156203_150
+  - first:
+      213: -4792407327361606837
+    second: dlf.pt-sprite-png-2156203_151
+  - first:
+      213: -6840937893049506288
+    second: dlf.pt-sprite-png-2156203_152
+  - first:
+      213: -1312053881307458280
+    second: dlf.pt-sprite-png-2156203_153
+  - first:
+      213: 8364415860522329650
+    second: dlf.pt-sprite-png-2156203_154
+  - first:
+      213: 2470639894365186176
+    second: dlf.pt-sprite-png-2156203_155
+  - first:
+      213: 2704190435742166962
+    second: dlf.pt-sprite-png-2156203_156
+  - first:
+      213: -2026050151535091146
+    second: dlf.pt-sprite-png-2156203_157
+  - first:
+      213: 5122482693923778063
+    second: dlf.pt-sprite-png-2156203_158
+  - first:
+      213: -6628746191492381218
+    second: dlf.pt-sprite-png-2156203_159
+  - first:
+      213: 1336696037798448967
+    second: dlf.pt-sprite-png-2156203_160
+  - first:
+      213: -6605853659880823113
+    second: dlf.pt-sprite-png-2156203_161
+  - first:
+      213: 8485229242178014998
+    second: dlf.pt-sprite-png-2156203_162
+  - first:
+      213: -1743814393107568550
+    second: dlf.pt-sprite-png-2156203_163
+  - first:
+      213: 7024132396961414113
+    second: dlf.pt-sprite-png-2156203_164
+  - first:
+      213: -6733749128585635251
+    second: dlf.pt-sprite-png-2156203_165
+  - first:
+      213: -4312108536160620435
+    second: dlf.pt-sprite-png-2156203_166
+  - first:
+      213: 6548496457714991947
+    second: dlf.pt-sprite-png-2156203_167
+  - first:
+      213: 6577016094725335177
+    second: dlf.pt-sprite-png-2156203_168
+  - first:
+      213: 5660612396194008617
+    second: dlf.pt-sprite-png-2156203_169
+  - first:
+      213: 6595976878369396173
+    second: dlf.pt-sprite-png-2156203_170
+  - first:
+      213: -2254744649383171488
+    second: dlf.pt-sprite-png-2156203_171
+  - first:
+      213: -1686264227288291610
+    second: dlf.pt-sprite-png-2156203_172
+  - first:
+      213: 6353323986768427516
+    second: dlf.pt-sprite-png-2156203_173
+  - first:
+      213: 1907969298565798426
+    second: dlf.pt-sprite-png-2156203_174
+  - first:
+      213: -6015660676359132280
+    second: dlf.pt-sprite-png-2156203_175
+  - first:
+      213: 7619261895906072400
+    second: dlf.pt-sprite-png-2156203_176
+  - first:
+      213: -3713742527812337939
+    second: dlf.pt-sprite-png-2156203_177
+  - first:
+      213: -1152358175344755962
+    second: dlf.pt-sprite-png-2156203_178
+  - first:
+      213: 4945415053058953533
+    second: dlf.pt-sprite-png-2156203_179
+  - first:
+      213: 5283485211322227394
+    second: dlf.pt-sprite-png-2156203_180
+  - first:
+      213: -5057070039727441904
+    second: dlf.pt-sprite-png-2156203_181
+  - first:
+      213: 6647599824208380452
+    second: dlf.pt-sprite-png-2156203_182
+  - first:
+      213: 7906772741103340858
+    second: dlf.pt-sprite-png-2156203_183
+  - first:
+      213: 594360719889138672
+    second: dlf.pt-sprite-png-2156203_184
+  - first:
+      213: -5251649574871037577
+    second: dlf.pt-sprite-png-2156203_185
+  - first:
+      213: 8974026510902690141
+    second: dlf.pt-sprite-png-2156203_186
+  - first:
+      213: -5913294238297096942
+    second: dlf.pt-sprite-png-2156203_187
+  - first:
+      213: 9170983008538631709
+    second: dlf.pt-sprite-png-2156203_188
+  - first:
+      213: 300676938674244587
+    second: dlf.pt-sprite-png-2156203_189
+  - first:
+      213: 4137380465880500108
+    second: dlf.pt-sprite-png-2156203_190
+  - first:
+      213: 7010512682117376968
+    second: dlf.pt-sprite-png-2156203_191
+  - first:
+      213: -1814445576723164189
+    second: dlf.pt-sprite-png-2156203_192
+  - first:
+      213: 2565508671675580082
+    second: dlf.pt-sprite-png-2156203_193
+  - first:
+      213: 869777341672101986
+    second: dlf.pt-sprite-png-2156203_194
+  - first:
+      213: 4631537807805937409
+    second: dlf.pt-sprite-png-2156203_195
+  - first:
+      213: -7256885393731504148
+    second: dlf.pt-sprite-png-2156203_196
+  - first:
+      213: -4178685119363725294
+    second: dlf.pt-sprite-png-2156203_197
+  - first:
+      213: 8876391950310375287
+    second: dlf.pt-sprite-png-2156203_198
+  - first:
+      213: -1702900741658727668
+    second: dlf.pt-sprite-png-2156203_199
+  - first:
+      213: 3576602277546217683
+    second: dlf.pt-sprite-png-2156203_200
+  - first:
+      213: 1066258504588785727
+    second: dlf.pt-sprite-png-2156203_201
+  - first:
+      213: 1338697947775782478
+    second: dlf.pt-sprite-png-2156203_202
+  - first:
+      213: 3883874522009157705
+    second: dlf.pt-sprite-png-2156203_203
+  - first:
+      213: 835742559616164520
+    second: dlf.pt-sprite-png-2156203_204
+  - first:
+      213: -2332353516277011584
+    second: dlf.pt-sprite-png-2156203_205
+  - first:
+      213: 7462011823676173882
+    second: dlf.pt-sprite-png-2156203_206
+  - first:
+      213: -8335751961530451691
+    second: dlf.pt-sprite-png-2156203_207
+  - first:
+      213: 2507834579762573462
+    second: dlf.pt-sprite-png-2156203_208
+  - first:
+      213: 9025550077903117699
+    second: dlf.pt-sprite-png-2156203_209
+  - first:
+      213: -5649216902429686796
+    second: dlf.pt-sprite-png-2156203_210
+  - first:
+      213: 7929197118399316537
+    second: dlf.pt-sprite-png-2156203_211
+  - first:
+      213: -5106524635690290577
+    second: dlf.pt-sprite-png-2156203_212
+  - first:
+      213: -6442372296446883884
+    second: dlf.pt-sprite-png-2156203_213
+  - first:
+      213: 4495334653599579120
+    second: dlf.pt-sprite-png-2156203_214
+  - first:
+      213: -81282557175473182
+    second: dlf.pt-sprite-png-2156203_215
+  - first:
+      213: 3715322643190892351
+    second: dlf.pt-sprite-png-2156203_216
+  - first:
+      213: -381576718378114313
+    second: dlf.pt-sprite-png-2156203_217
+  - first:
+      213: -1730688311143627449
+    second: dlf.pt-sprite-png-2156203_218
+  - first:
+      213: -4465891807451840906
+    second: dlf.pt-sprite-png-2156203_219
+  - first:
+      213: 3588654012822824761
+    second: dlf.pt-sprite-png-2156203_220
+  - first:
+      213: -7957427968762255732
+    second: dlf.pt-sprite-png-2156203_221
+  - first:
+      213: -7290470772991228553
+    second: dlf.pt-sprite-png-2156203_222
+  - first:
+      213: -971836414880117989
+    second: dlf.pt-sprite-png-2156203_223
+  - first:
+      213: 6223515147436043193
+    second: dlf.pt-sprite-png-2156203_224
+  - first:
+      213: 7216312712395149122
+    second: dlf.pt-sprite-png-2156203_225
+  - first:
+      213: -3131975497747912747
+    second: dlf.pt-sprite-png-2156203_226
+  - first:
+      213: -8112656002402435297
+    second: dlf.pt-sprite-png-2156203_227
+  - first:
+      213: -1763745680607627007
+    second: dlf.pt-sprite-png-2156203_228
+  - first:
+      213: 1066925626386214487
+    second: dlf.pt-sprite-png-2156203_229
+  - first:
+      213: 942164147291126245
+    second: dlf.pt-sprite-png-2156203_230
+  - first:
+      213: 8580159002781103337
+    second: dlf.pt-sprite-png-2156203_231
+  - first:
+      213: -811651530146915627
+    second: dlf.pt-sprite-png-2156203_232
+  - first:
+      213: -1035781904558794754
+    second: dlf.pt-sprite-png-2156203_233
+  - first:
+      213: -25992309097569878
+    second: dlf.pt-sprite-png-2156203_234
+  - first:
+      213: -6463537596160174201
+    second: dlf.pt-sprite-png-2156203_235
+  - first:
+      213: 6463043124251702737
+    second: dlf.pt-sprite-png-2156203_236
+  - first:
+      213: -4759532691018216905
+    second: dlf.pt-sprite-png-2156203_237
+  - first:
+      213: 5407768032831980321
+    second: dlf.pt-sprite-png-2156203_238
+  - first:
+      213: 3121180570865176742
+    second: dlf.pt-sprite-png-2156203_239
+  - first:
+      213: 6177348758108632449
+    second: dlf.pt-sprite-png-2156203_240
+  - first:
+      213: 1600601932684393019
+    second: dlf.pt-sprite-png-2156203_241
+  - first:
+      213: -7902592480270756350
+    second: dlf.pt-sprite-png-2156203_242
+  - first:
+      213: 8983154875419102907
+    second: dlf.pt-sprite-png-2156203_243
+  - first:
+      213: -6873927191570025553
+    second: dlf.pt-sprite-png-2156203_244
+  - first:
+      213: -8276985594268301399
+    second: dlf.pt-sprite-png-2156203_245
+  - first:
+      213: -2987556109948238923
+    second: dlf.pt-sprite-png-2156203_246
+  - first:
+      213: -4759217332058677399
+    second: dlf.pt-sprite-png-2156203_247
+  - first:
+      213: -6138542655965924447
+    second: dlf.pt-sprite-png-2156203_248
+  - first:
+      213: 8298932936247520251
+    second: dlf.pt-sprite-png-2156203_249
+  - first:
+      213: 486230776380802193
+    second: dlf.pt-sprite-png-2156203_250
+  - first:
+      213: -1639589264995408190
+    second: dlf.pt-sprite-png-2156203_251
+  - first:
+      213: 7054644980589204294
+    second: dlf.pt-sprite-png-2156203_252
+  - first:
+      213: -5317461038788545832
+    second: dlf.pt-sprite-png-2156203_253
+  - first:
+      213: -7015126575692771580
+    second: dlf.pt-sprite-png-2156203_254
+  - first:
+      213: -2794200722310362771
+    second: dlf.pt-sprite-png-2156203_255
+  - first:
+      213: -1368131391485987651
+    second: dlf.pt-sprite-png-2156203_256
+  - first:
+      213: 3359496454449149676
+    second: dlf.pt-sprite-png-2156203_257
+  - first:
+      213: 8730135005665863434
+    second: dlf.pt-sprite-png-2156203_258
+  - first:
+      213: 3798448071312551929
+    second: dlf.pt-sprite-png-2156203_259
+  - first:
+      213: -3248486740519345136
+    second: dlf.pt-sprite-png-2156203_260
+  - first:
+      213: -1148663701603549033
+    second: dlf.pt-sprite-png-2156203_261
+  - first:
+      213: -7930197374197810537
+    second: dlf.pt-sprite-png-2156203_262
+  - first:
+      213: -8667139731433346350
+    second: dlf.pt-sprite-png-2156203_263
+  - first:
+      213: 4878278480781237069
+    second: dlf.pt-sprite-png-2156203_264
+  - first:
+      213: 7450202232167054351
+    second: dlf.pt-sprite-png-2156203_265
+  - first:
+      213: -7624769785894296976
+    second: dlf.pt-sprite-png-2156203_266
+  - first:
+      213: 6329423006934825091
+    second: dlf.pt-sprite-png-2156203_267
+  - first:
+      213: -6792184867293879055
+    second: dlf.pt-sprite-png-2156203_268
+  - first:
+      213: 3149761308730095066
+    second: dlf.pt-sprite-png-2156203_269
+  - first:
+      213: 5847116311613851924
+    second: dlf.pt-sprite-png-2156203_270
+  - first:
+      213: -9121025197849969399
+    second: dlf.pt-sprite-png-2156203_271
+  - first:
+      213: 3627068375724596206
+    second: dlf.pt-sprite-png-2156203_272
+  - first:
+      213: -7681199376091577042
+    second: dlf.pt-sprite-png-2156203_273
+  - first:
+      213: -5837516257641663242
+    second: dlf.pt-sprite-png-2156203_274
+  - first:
+      213: 4642933156635832220
+    second: dlf.pt-sprite-png-2156203_275
+  - first:
+      213: -2608136154390220696
+    second: dlf.pt-sprite-png-2156203_276
+  - first:
+      213: -1068623715138520213
+    second: dlf.pt-sprite-png-2156203_277
+  - first:
+      213: 6211926451894167558
+    second: dlf.pt-sprite-png-2156203_278
+  - first:
+      213: -6235167137744145202
+    second: dlf.pt-sprite-png-2156203_279
+  - first:
+      213: -4219216102033547582
+    second: dlf.pt-sprite-png-2156203_280
+  - first:
+      213: -4111313335573867954
+    second: dlf.pt-sprite-png-2156203_281
+  - first:
+      213: -392992770712535544
+    second: dlf.pt-sprite-png-2156203_282
+  - first:
+      213: 7759476535299175861
+    second: dlf.pt-sprite-png-2156203_283
+  - first:
+      213: -6561458744856325058
+    second: dlf.pt-sprite-png-2156203_284
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 470
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a592c96f831e81280800000000000000
+      internalID: -9072253814566016678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 470
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7762c3cc69918c0800000000000000
+      internalID: -4028022587779549239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 470
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cddea17e6b3e14d0800000000000000
+      internalID: -3162024542827782714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 470
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1469ab0e918387100800000000000000
+      internalID: 105896275038869057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 470
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4d8f0d0537827b0800000000000000
+      internalID: -5248818574759766847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2a989032627b340800000000000000
+      internalID: 4879410653204947638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 470
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62d33392b74bec10800000000000000
+      internalID: 2083838084888384111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 467
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf5566978dcad690800000000000000
+      internalID: -7576517440869933132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 467
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965ec639e0320c520800000000000000
+      internalID: 2720212720441681257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 466
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55193d005ef4c2060800000000000000
+      internalID: 6930001771596321109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 466
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7524786395c1d64b0800000000000000
+      internalID: -5445665204928560553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 467
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbae6bb5250dfbfa0800000000000000
+      internalID: -5782674344375817539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 470
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8902c74f6ab6640800000000000000
+      internalID: 5074332974147737797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 470
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dc1f236bffcdb80800000000000000
+      internalID: -8368532849557385946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1ba26da8f685a80800000000000000
+      internalID: -8477903656435666454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c099a1f5b2a1200800000000000000
+      internalID: 151481224938458271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_16
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559f8606c99bc2e00800000000000000
+      internalID: 1021395296789789013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_17
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 414
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6632c473adba2c0800000000000000
+      internalID: -4419198678298564876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_18
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 480
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7670cf5c5b92e560800000000000000
+      internalID: 7341601163613075066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_19
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 467
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38eb6e7a73af9db0800000000000000
+      internalID: -4782924532741838788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_20
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c7105f31b6c31e0800000000000000
+      internalID: -2216779183114060704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_21
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 465
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babfff7dc07bb4f00800000000000000
+      internalID: 1102175799613586347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_22
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 471
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa07c4dd74cf1210800000000000000
+      internalID: 1305978461680503456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_23
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 471
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344c670571cd44660800000000000000
+      internalID: 7369256882977293379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_24
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 473
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79761e7b7f2abb3e0800000000000000
+      internalID: -2036855221629393001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_25
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 473
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859ba90eb125ff3e0800000000000000
+      internalID: -2017803828352861864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_26
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 476
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c901c75a360a8650800000000000000
+      internalID: 6235803481698011584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_27
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 471
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b38d00e4994259a0800000000000000
+      internalID: -6245848829446487119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 444
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafefe04ade3714a0800000000000000
+      internalID: -6622755619911766102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_29
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 445
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989fc46492ae71670800000000000000
+      internalID: 8509527483933849993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_30
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 444
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00988bab23667470800000000000000
+      internalID: 8392003994864095247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 444
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd627e9bdafd3240800000000000000
+      internalID: 4773247001245675006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 447
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab57de9c68567030800000000000000
+      internalID: 3492075784617024431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_33
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 447
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffde7da2ffe94470800000000000000
+      internalID: 8379492407271415792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_34
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 449
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43868f4bb140b1b80800000000000000
+      internalID: -8423134161019574220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_35
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6c809062d46c4b0800000000000000
+      internalID: -5420560275738147081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 450
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c080957f997f700800000000000000
+      internalID: 574096765142699081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_37
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06240069be8d5fa00800000000000000
+      internalID: 789775816018903648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_38
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 441
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9e6095bc5dbb3a0800000000000000
+      internalID: -6648485355533702721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_39
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 388
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcbe8aaf013b0ba0800000000000000
+      internalID: -6121745325124305733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_40
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 426
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9572921f89e0b770800000000000000
+      internalID: 8624650087115683229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_41
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 449
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e5d00627644f100800000000000000
+      internalID: 140814945407032877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_42
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 449
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63fd73faa6093440800000000000000
+      internalID: 4915967799550931823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_43
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 451
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e4cedbf686bda10800000000000000
+      internalID: 1935255294022798860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_44
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3ae79365b5388a0800000000000000
+      internalID: -6304094627498646558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_45
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 454
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffe8ef18e3771ea0800000000000000
+      internalID: -5902121345840779279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_46
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 454
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09319a643431fa330800000000000000
+      internalID: 3724216596527911824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_47
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 454
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867616927ea199cb0800000000000000
+      internalID: -4856821143008352408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_48
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 454
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3e7381cb1c25df0800000000000000
+      internalID: -192878820419181659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_49
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 407
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42acaa379b0fbcd00800000000000000
+      internalID: 994152822065515044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_50
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 407
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9056dd52745ff2e00800000000000000
+      internalID: 1022305326363141385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_51
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 409
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc7f76958db1cb90800000000000000
+      internalID: -7223283945872327471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_52
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 409
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59153b5250c3bc310800000000000000
+      internalID: 1426299699797905813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_53
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 426
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6009f73a3309790800000000000000
+      internalID: -7525458200023267679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_54
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 429
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267ab55e5cf358f90800000000000000
+      internalID: -6952080330587396254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_55
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 411
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cd0a43415098300800000000000000
+      internalID: 254740438263585931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_56
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 429
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1228ac964fa36e6c0800000000000000
+      internalID: -4114536388135058911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_57
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 433
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccdcf1d02b434f70800000000000000
+      internalID: 9170255870590508224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_58
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 434
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2e287c5c3f0b1c0800000000000000
+      internalID: -4489820797707033941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_59
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 407
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c778ca287339ec0800000000000000
+      internalID: -3561441845940093913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_60
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 407
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83db0bc12b75eced0800000000000000
+      internalID: -2391877929590014664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_61
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 407
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d40830eff9584d20800000000000000
+      internalID: 3262956885543224537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_62
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 408
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe9905d58e645b40800000000000000
+      internalID: 5428084971972173553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_63
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 408
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0802d51a7b52ba20800000000000000
+      internalID: 3076622075357693967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_64
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 408
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd5a2df14ba07c80800000000000000
+      internalID: -8326967411099410952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_65
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 409
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb70cc8f3a233220800000000000000
+      internalID: 2464359873534524387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_66
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 409
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53677fcd8f17b6770800000000000000
+      internalID: 8605096826694497845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_67
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 409
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c33f90f8ac82e290800000000000000
+      internalID: -7862567342216105024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_68
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 414
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5385fc94969de0b10800000000000000
+      internalID: 1949734734931122229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_69
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 387
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a97d4d168a82fe0800000000000000
+      internalID: -1213534961440154990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_70
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 411
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314e5405edfccb290800000000000000
+      internalID: -7873189494814022637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_71
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 410
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304d14a5237555ef0800000000000000
+      internalID: -120093941281205245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_72
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 412
+        width: 80
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6278dfc872e54d410800000000000000
+      internalID: 1500928099783378726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_73
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 386
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddbde2578692ac70800000000000000
+      internalID: 8980906114886254037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_74
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 385
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e132d92d38535f0800000000000000
+      internalID: -777570420048847298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_75
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 386
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9990a4bc49c674f50800000000000000
+      internalID: 6865575543271197081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_76
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 385
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88de01f95b035ee10800000000000000
+      internalID: 2226239147420478856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_77
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 338
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27875edd1bf487c60800000000000000
+      internalID: 7816084778652104818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_78
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 366
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d31810953f21ed30800000000000000
+      internalID: 4458897013170770899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_79
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec878864672dd34c0800000000000000
+      internalID: -4306054263265003314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_80
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 372
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760bd1f7837226020800000000000000
+      internalID: 2333470680535642215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_81
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 387
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2182b64b26633f950800000000000000
+      internalID: 6481584086277892114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_82
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bdac9f948661ff0800000000000000
+      internalID: -65750477617570934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_83
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 384
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b0c0e0632763200800000000000000
+      internalID: 159440413307702120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_84
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2657babd2c268d80800000000000000
+      internalID: -8248857092564756947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_85
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 384
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d62781e1fa6a2c0800000000000000
+      internalID: -4420653440423531259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_86
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ac1711e84ba05a0800000000000000
+      internalID: -6554227785413309922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_87
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85d020da0cbf0fd0800000000000000
+      internalID: -2373471723973454453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_88
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 387
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db9f114dd435c330800000000000000
+      internalID: 3730445991231331285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_89
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa24e754fe2b8110800000000000000
+      internalID: 1264155747389024940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecede260e059c6b0800000000000000
+      internalID: -5275596563825169169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_91
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f772e4f0f3c42cc0800000000000000
+      internalID: -3736646351142619150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_92
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 363
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860036db663c88d20800000000000000
+      internalID: 3281087174570868840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_93
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 361
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc53769eb54701f0800000000000000
+      internalID: -1078816900861698877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_94
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 364
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0895d37dc3f90160800000000000000
+      internalID: 6992387960206628876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_95
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 349
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65612b3c3d60bbf0800000000000000
+      internalID: -310628268831054486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_96
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 349
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15200248c3c4c51d0800000000000000
+      internalID: -3360727399126793647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_97
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 349
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c0b10f47e8ca230800000000000000
+      internalID: 3651450030786284583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_98
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 364
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b1cf9cd03b68c50800000000000000
+      internalID: 6667213170173287312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_99
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 364
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f27daab6eff96f0800000000000000
+      internalID: -675541680701100141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_100
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 364
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e65f377305521890800000000000000
+      internalID: -7488829756989810974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_101
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5106dbe3bc4cd3d0800000000000000
+      internalID: -3180582901190885028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_102
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 367
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1dbebde862f62c0800000000000000
+      internalID: -4436284712919772713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_103
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 367
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b742ce20521f9da20800000000000000
+      internalID: 3087764160804299899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_104
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79e695c4e746ab10800000000000000
+      internalID: 1992358933051140478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_105
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 367
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af23029999a0feae0800000000000000
+      internalID: -1517982894585269510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_106
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c5b54d73f47e5a0800000000000000
+      internalID: -6492133236626727822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7eab8a9abd397f0800000000000000
+      internalID: -606900003038107703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_108
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 343
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cdb038c1a1ff090800000000000000
+      internalID: -7998645703426712460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_109
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 343
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93822e56c9d66ab0800000000000000
+      internalID: -5015081689024396390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_110
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 338
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571bbbf4f413de440800000000000000
+      internalID: 4966680180769403253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_111
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 343
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae94fd9543e4fb50800000000000000
+      internalID: 6626170839911145133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_112
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 338
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556157fc12611f860800000000000000
+      internalID: 7561849583802062421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_113
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 332
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2915400c811cb3f30800000000000000
+      internalID: 4556447760060273042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_114
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 349
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492bf7bd1e4103780800000000000000
+      internalID: -8705435119424392556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_115
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 347
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e823a4b0bf7280620800000000000000
+      internalID: 2740484332434633358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_116
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 348
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecf42cb92107cc40800000000000000
+      internalID: 5532391946009771238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_117
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 347
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e918857a5c221e70800000000000000
+      internalID: 9084372165390244327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_118
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 346
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e69e58fe28c6630800000000000000
+      internalID: 3921653340788321861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_119
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 346
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533885df151963da0800000000000000
+      internalID: -5965420875076828363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_120
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 346
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624e53b019a7640d0800000000000000
+      internalID: -3438926502073867226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_121
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 321
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b531fcdd81e9320800000000000000
+      internalID: 2566516178588752738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_122
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 320
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad4ae87b1b14de70800000000000000
+      internalID: 9138959348648267179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2420ff339061dd0800000000000000
+      internalID: -2515813222913522986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_124
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 321
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2878f0107c98d20800000000000000
+      internalID: 3281372610885550843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_125
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 319
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f2aa44986c43720800000000000000
+      internalID: 2825101159132966779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 334
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96654609e280d4c00800000000000000
+      internalID: 886373697745868393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_127
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 328
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab4cf0b33b358c80800000000000000
+      internalID: -8321179643298427997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_128
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 329
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491f4ad16faeb9ee0800000000000000
+      internalID: -1253149728512347756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_129
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 329
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7914a106e2c7f8520800000000000000
+      internalID: 2706518439695630743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_130
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbbabf3c2801c9f0800000000000000
+      internalID: -450069501619553332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_131
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d930142dc3c7eada0800000000000000
+      internalID: -5931667058533006435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_132
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de29f71fbb62362c0800000000000000
+      internalID: -4439662219004767507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_133
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 329
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01c1b4ef6aa38bb0800000000000000
+      internalID: -4934913369112985331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_134
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 329
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896562b99f3d69650800000000000000
+      internalID: 6239407402771699352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_135
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 318
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3d8f92a9bac3fe0800000000000000
+      internalID: -1207901921424649311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_136
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 316
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477ba51b4feafbc60800000000000000
+      internalID: 7836174242618718068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_137
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 316
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f174b39d1ebe1850800000000000000
+      internalID: 6349721558880383481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_138
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c26c3f3a27f78690800000000000000
+      internalID: -7599834085342813498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_139
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 274
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc4d0726d20ce280800000000000000
+      internalID: -9012825635473765122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_140
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 274
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2077c8ecebf706f0800000000000000
+      internalID: -718328620606066645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_141
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 276
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad15bc4c77b7d070800000000000000
+      internalID: 8131169396731485601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_142
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 276
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a3f84d31415e9d0800000000000000
+      internalID: -2745766322409358718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_143
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 276
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e04f1352cfffcfd0800000000000000
+      internalID: -2319354072989220631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_144
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 276
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82ddcfd2bb364a80800000000000000
+      internalID: -8483027208660725105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_145
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 276
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245a9ad8623448f00800000000000000
+      internalID: 1118092440359249218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_146
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 276
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8a1c6043fb4e760800000000000000
+      internalID: 7486318710769166549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_147
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 276
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc210d203c979a30800000000000000
+      internalID: 4222014906410544304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_148
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b117f37ec3808f0800000000000000
+      internalID: -574141988590249135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_149
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a99a2a6d0ea0200800000000000000
+      internalID: 147177150299609684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_150
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c02b0d7bb6410840800000000000000
+      internalID: 5188506016778232005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_151
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bd1a15de2fd7db0800000000000000
+      internalID: -4792407327361606837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_152
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016664a2b3b1011a0800000000000000
+      internalID: -6840937893049506288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_153
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8151f7e42f5aacde0800000000000000
+      internalID: -1312053881307458280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_154
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236a31898ef541470800000000000000
+      internalID: 8364415860522329650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_155
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088ab87d4e9794220800000000000000
+      internalID: 2470639894365186176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_156
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfab67bfd6378520800000000000000
+      internalID: 2704190435742166962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_157
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632ef942f1602e3e0800000000000000
+      internalID: -2026050151535091146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_158
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 297
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ea96bbed6b61740800000000000000
+      internalID: 5122482693923778063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_159
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 297
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed58fdd9576f104a0800000000000000
+      internalID: -6628746191492381218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_160
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f06a9d6f5ec8210800000000000000
+      internalID: 1336696037798448967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_161
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 296
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6e69c781b4354a0800000000000000
+      internalID: -6605853659880823113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 295
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f07c10a0791c570800000000000000
+      internalID: 8485229242178014998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_163
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 282
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a582c907c0abcc7e0800000000000000
+      internalID: -1743814393107568550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_164
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 254
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebb238133bba7160800000000000000
+      internalID: 7024132396961414113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_165
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 254
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a9e0038daec82a0800000000000000
+      internalID: -6733749128585635251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_166
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60773502205824c0800000000000000
+      internalID: -4312108536160620435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_167
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 274
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43810735dee0ea50800000000000000
+      internalID: 6548496457714991947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_168
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 274
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9886128aa41464b50800000000000000
+      internalID: 6577016094725335177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_169
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e015eabf88e8e40800000000000000
+      internalID: 5660612396194008617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_170
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5d5ed160e998b50800000000000000
+      internalID: 6595976878369396173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_171
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 273
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06aad4200b985b0e0800000000000000
+      internalID: -2254744649383171488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_172
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 273
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e668079e9f2998e0800000000000000
+      internalID: -1686264227288291610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_173
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 273
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9fc4e218a8b2850800000000000000
+      internalID: 6353323986768427516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_174
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 274
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a9d5bd7f77a7a10800000000000000
+      internalID: 1907969298565798426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_175
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 274
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88be358bc74148ca0800000000000000
+      internalID: -6015660676359132280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_176
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 274
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0579624635e0db960800000000000000
+      internalID: 7619261895906072400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_177
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 253
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deefb72e8d2267cc0800000000000000
+      internalID: -3713742527812337939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_178
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 253
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bfe8058500200f0800000000000000
+      internalID: -1152358175344755962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_179
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 242
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31d270f9c4a1a440800000000000000
+      internalID: 4945415053058953533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_180
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 242
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca14ec7ec5b25940800000000000000
+      internalID: 5283485211322227394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_181
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 242
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01876c5a79da1d9b0800000000000000
+      internalID: -5057070039727441904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_182
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 242
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422c3e2d1d4014c50800000000000000
+      internalID: 6647599824208380452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_183
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 241
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dc4398aef7abd60800000000000000
+      internalID: 7906772741103340858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_184
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 241
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f30079fce79f3800800000000000000
+      internalID: 594360719889138672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_185
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7790bfc39846e17b0800000000000000
+      internalID: -5251649574871037577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_186
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 239
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d510b43b0952a8c70800000000000000
+      internalID: 8974026510902690141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_187
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dffe16832cfeda0800000000000000
+      internalID: -5913294238297096942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_188
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 242
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e9611d470e54f70800000000000000
+      internalID: 9170983008538631709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_189
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 252
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb84d925183c2400800000000000000
+      internalID: 300676938674244587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_190
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 234
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c878279ec9dea6930800000000000000
+      internalID: 4137380465880500108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_191
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 233
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb2afe14285a4160800000000000000
+      internalID: 7010512682117376968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_192
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 236
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3132f7c5bc1d6e0800000000000000
+      internalID: -1814445576723164189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_193
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 239
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be38635b848a9320800000000000000
+      internalID: 2565508671675580082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_194
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 241
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2689c0c42e1121c00800000000000000
+      internalID: 869777341672101986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_195
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 210
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1077016e817864040800000000000000
+      internalID: 4631537807805937409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_196
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 210
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7b9eade2d5a4b90800000000000000
+      internalID: -7256885393731504148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_197
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 210
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2184d1806045206c0800000000000000
+      internalID: -4178685119363725294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_198
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 209
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ff26d13774f2b70800000000000000
+      internalID: 8876391950310375287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_199
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0baead3cc41e58e0800000000000000
+      internalID: -1702900741658727668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_200
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 234
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0deff52d4a2a130800000000000000
+      internalID: 3576602277546217683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_201
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 234
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38f0cce57c1cce00800000000000000
+      internalID: 1066258504588785727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_202
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 207
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e48b6d0b2049210800000000000000
+      internalID: 1338697947775782478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_203
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940cb84dc4b46e530800000000000000
+      internalID: 3883874522009157705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_204
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 232
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2e8951e67299b00800000000000000
+      internalID: 835742559616164520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_205
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 232
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08beca395d0d1afd0800000000000000
+      internalID: -2332353516277011584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_206
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 235
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eabfbd7346e8760800000000000000
+      internalID: 7462011823676173882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_207
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 209
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519363571c5715c80800000000000000
+      internalID: -8335751961530451691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_208
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 223
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6907032634e9dc220800000000000000
+      internalID: 2507834579762573462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_209
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 203
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d1ae7f9f1314d70800000000000000
+      internalID: 9025550077903117699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_210
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 205
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3cb877823f991b0800000000000000
+      internalID: -5649216902429686796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_211
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 179
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9320e3cb4ca2a0e60800000000000000
+      internalID: 7929197118399316537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_212
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 180
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6236ec36eaf129b0800000000000000
+      internalID: -5106524635690290577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_213
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 198
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7477f87881896a0800000000000000
+      internalID: -6442372296446883884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_214
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 198
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb7e46dc03a26e30800000000000000
+      internalID: 4495334653599579120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_215
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebde15e1f93fdef0800000000000000
+      internalID: -81282557175473182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_216
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 205
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37cb55624a7f8330800000000000000
+      internalID: 3715322643190892351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_217
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 208
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2638e0ffd54baf0800000000000000
+      internalID: -381576718378114313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_218
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 201
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7450d5d862c5bf7e0800000000000000
+      internalID: -1730688311143627449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_219
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 179
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e718bff07f502c0800000000000000
+      internalID: -4465891807451840906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_220
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 178
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937a518afc57dc130800000000000000
+      internalID: 3588654012822824761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_221
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 178
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86ea243c69819190800000000000000
+      internalID: -7957427968762255732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_222
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 177
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7758d72657b03da90800000000000000
+      internalID: -7290470772991228553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_223
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 178
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b084ffde75382f0800000000000000
+      internalID: -971836414880117989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_224
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 189
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb20319d0e5e5650800000000000000
+      internalID: 6223515147436043193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_225
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 178
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fc272ad2e752460800000000000000
+      internalID: 7216312712395149122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_226
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 178
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d72283f0ecf884d0800000000000000
+      internalID: -3131975497747912747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_227
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 164
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fbcd7395e0a6f80800000000000000
+      internalID: -8112656002402435297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_228
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 161
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109b041f5aae587e0800000000000000
+      internalID: -1763745680607627007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_229
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 162
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ee282543b7ece00800000000000000
+      internalID: 1066925626386214487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_230
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 162
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e97567dc4d331d00800000000000000
+      internalID: 942164147291126245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_231
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 182
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e433254729d21770800000000000000
+      internalID: 8580159002781103337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_232
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 179
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dad030db3f6cb4f0800000000000000
+      internalID: -811651530146915627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_233
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 144
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7def978d920a1f0800000000000000
+      internalID: -1035781904558794754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_234
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 143
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1e851f128a3aff0800000000000000
+      internalID: -25992309097569878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_235
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 145
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7879d743dc6ec46a0800000000000000
+      internalID: -6463537596160174201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_236
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 144
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5bd059a7751b950800000000000000
+      internalID: 6463043124251702737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_237
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 146
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a000f0c3eb2fdb0800000000000000
+      internalID: -4759532691018216905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_238
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 147
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123c9a0df504c0b40800000000000000
+      internalID: 5407768032831980321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_239
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a015464139a05b20800000000000000
+      internalID: 3121180570865176742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_240
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 156
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185f3cc67f95ab550800000000000000
+      internalID: 6177348758108632449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_241
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 155
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3af4783afa763610800000000000000
+      internalID: 1600601932684393019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_242
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 147
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206d9c8420a545290800000000000000
+      internalID: -7902592480270756350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_243
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 147
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe8cafa3c39aac70800000000000000
+      internalID: 8983154875419102907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_244
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 147
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3f19e83a7ea90a0800000000000000
+      internalID: -6873927191570025553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_245
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 128
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7cc92947d322d80800000000000000
+      internalID: -8276985594268301399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_246
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 126
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3ccf7fb811a86d0800000000000000
+      internalID: -2987556109948238923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_247
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 124
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f92c94d0dd3fdb0800000000000000
+      internalID: -4759217332058677399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_248
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 142
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a371905af38fcaa0800000000000000
+      internalID: -6138542655965924447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_249
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 130
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfba2df298bbb2370800000000000000
+      internalID: 8298932936247520251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_250
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 133
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1944a01a0507fb600800000000000000
+      internalID: 486230776380802193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_251
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 115
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6a76a10420f39e0800000000000000
+      internalID: -1639589264995408190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_252
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 115
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64313849b3227e160800000000000000
+      internalID: 7054644980589204294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_253
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 115
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2770cbb559436b0800000000000000
+      internalID: -5317461038788545832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_254
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 114
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f0e611c8345ae90800000000000000
+      internalID: -7015126575692771580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_255
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 114
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d690d835f310939d0800000000000000
+      internalID: -2794200722310362771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_256
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4ba648fbb630de0800000000000000
+      internalID: -1368131391485987651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_257
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce630a7d9345f9e20800000000000000
+      internalID: 3359496454449149676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_258
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 111
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07aaed888ba72970800000000000000
+      internalID: 8730135005665863434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_259
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 122
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff2a54556cc6b430800000000000000
+      internalID: 3798448071312551929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_260
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 121
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01427cd458e0be2d0800000000000000
+      internalID: -3248486740519345136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_261
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 121
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790098303702f00f0800000000000000
+      internalID: -1148663701603549033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_262
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a3430118742f190800000000000000
+      internalID: -7930197374197810537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_263
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 43
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daad31b55228b780800000000000000
+      internalID: -8667139731433346350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_264
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 43
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bd56a9e6023b340800000000000000
+      internalID: 4878278480781237069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_265
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cb321157f646760800000000000000
+      internalID: 7450202232167054351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_266
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 78
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072a3a907406f2690800000000000000
+      internalID: -7624769785894296976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_267
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 62
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388f889a0b0a6d750800000000000000
+      internalID: 6329423006934825091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_268
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 27
+        width: 14
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f42a2889df4db1a0800000000000000
+      internalID: -6792184867293879055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_269
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 23
+        width: 18
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5702ed83336bb20800000000000000
+      internalID: 3149761308730095066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_270
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 23
+        width: 18
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419c22a5e41252150800000000000000
+      internalID: 5847116311613851924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_271
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 23
+        width: 18
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90df3c668eb9b6180800000000000000
+      internalID: -9121025197849969399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_272
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 23
+        width: 18
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb1e1f787fe55230800000000000000
+      internalID: 3627068375724596206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_273
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 82
+        width: 83
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e250c1b3dd5e66590800000000000000
+      internalID: -7681199376091577042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_274
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 44
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f473b464e9fcfea0800000000000000
+      internalID: -5837516257641663242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_275
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 42
+        width: 194
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f692d4b130f6040800000000000000
+      internalID: 4642933156635832220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_276
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860b7bf6cf90ecbd0800000000000000
+      internalID: -2608136154390220696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_277
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 12
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b3c94946c7b21f0800000000000000
+      internalID: -1068623715138520213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_278
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 11
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60821002232353650800000000000000
+      internalID: 6211926451894167558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_279
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 6
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec43297068c3879a0800000000000000
+      internalID: -6235167137744145202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_280
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 6
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce9eaf3f455275c0800000000000000
+      internalID: -4219216102033547582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_281
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e421bc0dd4ea1f6c0800000000000000
+      internalID: -4111313335573867954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_282
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 5
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ef16e382fcb8af0800000000000000
+      internalID: -392992770712535544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_283
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 10
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b57c712cc23fab60800000000000000
+      internalID: 7759476535299175861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-sprite-png-2156203_284
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2
+        width: 201
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e345570290401f4a0800000000000000
+      internalID: -6561458744856325058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
