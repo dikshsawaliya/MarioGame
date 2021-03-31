@@ -13,12 +13,21 @@ public class Enemy : MonoBehaviour
         
     public void JumpedOn()
     {
-        anim.SetTrigger("Death");
+        anim.SetFloat("Ed",2);
     }
 
 
     private void Death()
     {
+        StartCoroutine(Coroutine1());
+        //anim.SetFloat("Ed", 2);
+        //Destroy(this.gameObject);
+    }
+
+    IEnumerator Coroutine1()
+    { 
+        anim.SetFloat("Ed", 2);
+        yield return new WaitForSeconds(1);
         Destroy(this.gameObject);
     }
 
