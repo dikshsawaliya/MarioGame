@@ -9,6 +9,7 @@ ScriptsOnlyBuild:
     - Ghost
     - GravityHelper
     - MainMenu
+    - PauseMenu
     - PlayerController
     - SceneChange
     Unity.2D.Animation.Editor.dll:
@@ -79,15 +80,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11640}
     - Class: 114
-      Script: {instanceID: 12312}
+      Script: {instanceID: 12314}
     - Class: 114
-      Script: {instanceID: 12860}
+      Script: {instanceID: 12862}
     - Class: 114
-      Script: {instanceID: 13030}
+      Script: {instanceID: 13032}
     - Class: 114
-      Script: {instanceID: 13822}
+      Script: {instanceID: 13824}
     - Class: 114
-      Script: {instanceID: 14462}
+      Script: {instanceID: 14464}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -140,25 +141,25 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11640}
     - Class: 114
-      Script: {instanceID: 12312}
+      Script: {instanceID: 12314}
     - Class: 114
-      Script: {instanceID: 12366}
+      Script: {instanceID: 12368}
     - Class: 114
-      Script: {instanceID: 13030}
+      Script: {instanceID: 13032}
     - Class: 114
-      Script: {instanceID: 13382}
+      Script: {instanceID: 13384}
     - Class: 114
-      Script: {instanceID: 13402}
+      Script: {instanceID: 13404}
     - Class: 114
-      Script: {instanceID: 13822}
+      Script: {instanceID: 13824}
     - Class: 114
-      Script: {instanceID: 14118}
+      Script: {instanceID: 14120}
     - Class: 114
-      Script: {instanceID: 14292}
+      Script: {instanceID: 14294}
     - Class: 114
-      Script: {instanceID: 14462}
+      Script: {instanceID: 14464}
     - Class: 114
-      Script: {instanceID: 14524}
+      Script: {instanceID: 14526}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -221,23 +222,25 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11764}
     - Class: 114
-      Script: {instanceID: 12312}
+      Script: {instanceID: 11928}
     - Class: 114
-      Script: {instanceID: 12404}
+      Script: {instanceID: 12314}
     - Class: 114
-      Script: {instanceID: 13030}
+      Script: {instanceID: 12406}
     - Class: 114
-      Script: {instanceID: 13822}
+      Script: {instanceID: 13032}
     - Class: 114
-      Script: {instanceID: 14048}
+      Script: {instanceID: 13824}
     - Class: 114
-      Script: {instanceID: 14462}
+      Script: {instanceID: 14050}
     - Class: 114
       Script: {instanceID: 14464}
     - Class: 114
-      Script: {instanceID: 14474}
+      Script: {instanceID: 14466}
     - Class: 114
-      Script: {instanceID: 14538}
+      Script: {instanceID: 14476}
+    - Class: 114
+      Script: {instanceID: 14540}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -281,11 +284,17 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 82
       Script: {instanceID: 0}
     - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
@@ -296,11 +305,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11640}
     - Class: 114
-      Script: {instanceID: 12312}
+      Script: {instanceID: 12314}
     - Class: 114
-      Script: {instanceID: 13822}
+      Script: {instanceID: 13032}
     - Class: 114
-      Script: {instanceID: 14462}
+      Script: {instanceID: 13824}
+    - Class: 114
+      Script: {instanceID: 14464}
+    - Class: 114
+      Script: {instanceID: 14526}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -480,6 +493,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: c8c5e65e9fb858572516474d6e2102bc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PauseMenu
   - hash:
       serializedVersion: 2
       Hash: cf9f5cf2c3145a37ac07f00e50e460f9
