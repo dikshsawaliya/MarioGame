@@ -22,7 +22,7 @@ public class PlayerController : MonoBehaviour
     public Text healthAmount;
     
     private enum State { inactive, sprinting, jumping, descend, injure }
-    private State state = State.idle;
+    private State state = State.inactive;
     private Collider2D coll;
 
     private void Start()
@@ -35,7 +35,7 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-        if(state != State.hurt)
+        if(state != State.injure)
         {
             Movement();
         }
