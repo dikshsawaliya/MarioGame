@@ -21,7 +21,7 @@ public class PlayerController : MonoBehaviour
     public int health;
     public Text healthAmount;
     
-    private enum State { idle, running, jumping, falling, hurt }
+    private enum State { inactive, sprinting, jumping, descend, injure }
     private State state = State.idle;
     private Collider2D coll;
 
@@ -135,29 +135,29 @@ public class PlayerController : MonoBehaviour
                 state = State.falling;
             }
         }
-        else if (state == State.falling)
+        else if (state == State.descend)
         {
             if(coll.IsTouchingLayers(ground))
             {
                 state = State.idle; 
             }
         }
-        else if ( state == State.hurt)
+        else if ( state == State.injure)
         {
             if(Mathf.Abs(rb.velocity.x) < .1f)
             {
-                state = State.idle;
+                state = State.inactive;
             }
         }
 
         else if (Mathf.Abs(rb.velocity.x) > 2f)
         {
-            state = State.running;
+            state = State.sprinting;
 
         }
         else
         {
-            state = State.idle;
+            state = State.inactive;
 
         }
     }
