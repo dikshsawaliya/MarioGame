@@ -6,30 +6,24 @@ using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
-
-    // Start() Variables 
     private Rigidbody2D rb;
     private Animator anim;
     
-
-    //FSM
-    private enum State { idle, running, jumping, falling, hurt }
-    private State state = State.idle;
-    private Collider2D coll;
-    
-
-
-    //Inspector Variables 
     public LayerMask ground;
-    public float speed = 5f;
-    public float JumpForce = 5f;
-    public int coins = 0;
+    private float speed = 5f;
+    private float JumpForce = 5f;
+    private int coins = 0;
     public Text coinsText;
-    public float hurtForce = 5f;
+    private float hurtForce = 5f;
+    
     public AudioSource coinsound;
     public AudioSource footsteps;
     public int health;
     public Text healthAmount;
+    
+    private enum State { idle, running, jumping, falling, hurt }
+    private State state = State.idle;
+    private Collider2D coll;
 
     private void Start()
     {
@@ -46,8 +40,40 @@ public class PlayerController : MonoBehaviour
             Movement();
         }
         AnimationState();
-        anim.SetInteger("state", (int)state); //sets animation based on enumerator state 
+        anim.SetInteger("state", (int)state); 
     }
+    
+     private void Movement()
+    {
+        float hDirection = Input.GetAxis("Horizontal");
+
+        //moving left
+        if (hDirection < 0)
+        {
+            rb.velocity = new Vector2(-speed, rb.velocity.y);
+            transform.localScale = new Vector2(-7, 7);
+        }
+
+        //moving right
+        else if (hDirection > 0)
+        {
+            rb.velocity = new Vector2(speed, rb.velocity.y);
+            transform.localScale = new Vector2(7, 7);
+        }
+
+        //jumping
+        if (Input.GetButtonDown("Jump") && coll.IsTouchingLayers(ground))
+        {
+            Jump();
+        }
+    }
+    
+    private void Jump()
+    {
+        rb.velocity = new Vector2(rb.velocity.x, JumpForce);
+        state = State.jumping;
+    }
+
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -73,16 +99,14 @@ public class PlayerController : MonoBehaviour
             else
             {
                 state = State.hurt;
-                HandleHealth(); //Deals with health,updating UI,
+                HandleHealth(); 
 
                 if (other.gameObject.transform.position.x > transform.position.x)
                 {
-                    //Enemy is to my right therfore I should be damaged and move to left
                     rb.velocity = new Vector2(-hurtForce, rb.velocity.y);
                 }
                 else
                 {
-                    //Enemy is to my left therfore I should be damaged and move to right
                     rb.velocity = new Vector2(hurtForce, rb.velocity.y);
                 }
             }
@@ -99,37 +123,6 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-
-    private void Movement()
-    {
-        float hDirection = Input.GetAxis("Horizontal");
-
-        //moving left
-        if (hDirection < 0)
-        {
-            rb.velocity = new Vector2(-speed, rb.velocity.y);
-            transform.localScale = new Vector2(-7, 7);
-        }
-
-        //moving right
-        else if (hDirection > 0)
-        {
-            rb.velocity = new Vector2(speed, rb.velocity.y);
-            transform.localScale = new Vector2(7, 7);
-        }
-
-        //jumping
-        if (Input.GetButtonDown("Jump") && coll.IsTouchingLayers(ground))
-        {
-            Jump();
-        }
-    }
-
-    private void Jump()
-    {
-        rb.velocity = new Vector2(rb.velocity.x, JumpForce);
-        state = State.jumping;
-    }
 
     private void AnimationState()
     {
